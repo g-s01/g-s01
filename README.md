@@ -24,7 +24,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`, and `TopCoder`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [my website](https://g-s01.github.io/).
+<!-- - :boom: You can visit [my website](https://g-s01.github.io/). -->
 <br>
 
 
