@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gautam Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+during+the+day;Competitive+Programmer+at+night;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu+on+AtCoder;Division+1+on+TopCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+during+the+day;Competitive+Programmer+at+night;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Division+1+on+TopCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
@@ -32,15 +32,24 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/sharma_gautam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	&emsp;
 	<a href="https://leetcode.com/sharma_gautam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	&emsp;
 	<a href="https://atcoder.jp/users/sharma_gautam"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+	&emsp;
 	<a href="https://www.codechef.com/users/sharma_gautam"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	&emsp;
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/r5M3DTw/logo.png" alt="logo" border="0"></a><a target='_blank' href='https://imgbb.com/'></a>
+	&emsp;
+	<a href="https://imgbb.com/"><img src="https://i.ibb.co/r0WNqJJ/hackerrank-logo-21e2867566.png" alt="hackerrank-logo-21e2867566" border="0"></a><a target='_blank' href='https://imgbb.com/'></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:gautamsharma20902@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/g-s01"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/g-s01/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -83,6 +92,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+  &emsp;
+  <a href=""><img alt="React.js" src = "https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/></a>
+  &emsp;
+  <a href=""><img alt="React.js" src = "https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -110,9 +123,17 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important" alt = "sublime text" /></a>
+  &emsp;
+    <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white" alt = "vim" /></a>
+  &emsp;
+    <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flag&logo=android-studio&logoColor=white" alt = "android studio" /></a>
+  &emsp;
+     <a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-black?style=flag&logo=clion&logoColor=white" alt = "clion" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
@@ -139,6 +160,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"></a>
 </p>
 
 <br> 
