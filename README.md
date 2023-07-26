@@ -95,10 +95,9 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href=""><img alt="React.js" src = "https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/></a>
-  &emsp;
-  <a href=""><img alt="React.js" src = "https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/></a>
+  
 </p>
+
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
@@ -119,6 +118,9 @@
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+	&emsp;
+	<a href=""><img alt="React.js" src = "https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/></a> &emsp;
+	<a href=""><img alt="React.js" src = "https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
