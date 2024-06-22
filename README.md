@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gautam Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+during+the+day;Competitive+Programmer+at+night;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Division+1+on+TopCoder;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student+during+the+day;Competitive+Programmer+at+night;Expert+(1727)+on+Codeforces;Division+2+on+CodeChef+(4+Stars);4+Kyu(cyan, 1265)+on+AtCoder;Division+1+on+TopCoder;Always+learning+new+things">
   </a>
 </p>
 <br>
