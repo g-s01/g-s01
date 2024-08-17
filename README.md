@@ -218,3 +218,5 @@
 [![@gs01's Holopin board](https://holopin.io/api/user/board?user=gs01)](https://holopin.io/@gs01)
 	
 </details>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66bff0c591320df4bd2b9e86?variant=dark)](https://roadmap.sh)
