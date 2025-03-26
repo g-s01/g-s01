@@ -21,7 +21,7 @@
 
 <br><br>
 
-- :school: I am a `Pre-Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology](https://iitg.ac.in/).
+- :school: I am a `Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology](https://iitg.ac.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`, and `TopCoder`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
